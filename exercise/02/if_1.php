@@ -10,10 +10,10 @@ $b = 2;
 
 // 先ほどと同じ処理
 
-if($a>$b){
+if ($a > $b) {
     echo $a;
-}elseif($a<$b){
+} elseif ($a < $b) {
     echo $b;
-}else{
+} else {
     echo '入力された値は等しいです';
 }
