@@ -3,7 +3,6 @@
 // 以下にCarクラスを定義して、当プログラムを実行した時にエラーがでないようにして下さい。
 class Car
 {
-
     public function __construct($name, $number, $color)
     {
         $this->name = $name;
